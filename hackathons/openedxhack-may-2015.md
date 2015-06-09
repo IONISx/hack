@@ -1,4 +1,4 @@
-# OpenEdXHack – May 2015
+# OpenedXHack – May 2015
 
 > **France Open edX Hackathon**  
 > 48 hours to imagine the MOOC platform of tomorrow
@@ -7,11 +7,11 @@
 
 This hackathon was organized by [IONISx](https://ionisx.com), [France Université Numérique](http://france-universite-numerique.fr) and [edX](https://edx.org).
 
-This was a nation-wide event, happening in [8 French cities](http://hack.openedx.fr/sites.html) : Paris, Bordeaux, Lyon, Marseille, Nancy, Rennes, Strasbourg and Toulouse.
+This was a nationwide event, happening in [8 French cities](http://hack.openedx.fr/sites.html): Paris, Bordeaux, Lyon, Marseille, Nancy, Rennes, Strasbourg and Toulouse.
 
 It was hosted by [ETNA](http://www.etna-alternance.net/), [Epitech](http://www.epitech.eu/) and [ENSIIE](http://www.ensiie.fr/).
 
-Official website : [http://hack.openedx.fr/index-en.html](http://hack.openedx.fr/index-en.html).
+Official website: [http://hack.openedx.fr/index-en.html](http://hack.openedx.fr/index-en.html).
 
 
 ## Projects
@@ -20,14 +20,14 @@ Official website : [http://hack.openedx.fr/index-en.html](http://hack.openedx.f
 | ------------------- | -------------  | ----------- | ----- |
 | <a name="p1"></a>外语2CommonLanguage  | Nancy | Add a “translate” button to forum posts | [GitHub](https://github.com/jirkamarsik/edx-platform/tree/translate-button)
 | <a name="p2"></a>YOLO SWAG | Lyon  | Open edX raspberry pi clustering | |
-| <a name="p3"></a>Gutenberg and Bruxelles | Paris | XBlock to easily create interactive videos with problems. | [GitHub](https://github.com/roparz/xblock-videoquiz)
-| <a name="p4"></a>Motification | Lyon | Reduce the students turnover on the Open edX platform | [Doc](https://drive.google.com/drive/u/0/folders/0B3jc795AwF0NflVPMUdJZEx3MW0xMzZabllucXlscGdlQjFCSzNhZjFaN2kxREhxVHcwZWc) |
+| <a name="p3"></a>Gutenberg and Bruxelles | Paris | XBlock to easily create interactive videos with quizzes | [GitHub](https://github.com/roparz/xblock-videoquiz)
+| <a name="p4"></a>Motification | Lyon | Reduce student turnover on the Open edX platform | [Doc](https://drive.google.com/drive/u/0/folders/0B3jc795AwF0NflVPMUdJZEx3MW0xMzZabllucXlscGdlQjFCSzNhZjFaN2kxREhxVHcwZWc) |
 | <a name="p5"></a>KNOTES | Marseille | XBlock for inline video annotations | [GitHub](https://github.com/Kalyzee/xblock-videoannotation) |
 | <a name="p6"></a>Open Domoscio | Paris | Facilitate the revision process with automatic reminders to better solidify learning and increase engagement by adding Domoscio algorithm in Open edX with an API | |
-| <a name="p7"></a>SwagMastaMLG420 | Toulouse | Improve the mobile application’s user friendliness | |
+| <a name="p7"></a>SwagMastaMLG420 | Toulouse | Improve the mobile application’s user-friendliness | |
 | <a name="p8"></a>Team63 | Toulouse | Offline video access for any device | |
 | <a name="p9"></a>E2PZ | Toulouse | Fun and easy way to propose suitable content to the user | [GitHub](https://github.com/Damerzone/Time2Learn-Open-edX) |
-| <a name="p10"></a>Tip Top Forum BZH | Rennes | Ergonomic mobile interface for the forums | |
+| <a name="p10"></a>Tip Top Forum BZH | Rennes | Ergonomic mobile interface for forums | |
 | <a name="p11"></a>générale d'optique | Toulouse | Quizzes through regular notifications | |
 | <a name="p12"></a>PédagoGeek | Paris | Improved course notes | |
 | <a name="p13"></a>XD-Block | Strasbourg | Man-Hill to optimize pedagogical paths | [GitHub](https://github.com/teodam/openedx-manhill) |
@@ -38,7 +38,7 @@ Official website : [http://hack.openedx.fr/index-en.html](http://hack.openedx.f
 | <a name="p18"></a>Tout seul | Lyon | Display courses on the homepage as a Carousel | [Screenshot](http://hack.ioni.sx/hackathons/openedxhack-may-2015/tout-seul-carousel.png) |
 | <a name="p19"></a>Edverywhere | Paris | Prototype Android application to consume MOOC content in multiple formats (audio, video or text) | [APK](http://hack.ioni.sx/hackathons/openedxhack-may-2015/edverywhere4.apk) |
 | <a name="p20"></a>edX Viewer team | Toulouse | Popcorntime for Open edX | |
-| <a name="p21"></a>Mooker | Bordeaux | Mobile application and recommendation engine based on the users’s taste | [GitHub](https://github.com/nekfeu/Mooker) |
+| <a name="p21"></a>Mooker | Bordeaux | Mobile application and recommendation engine based on users’ taste | [GitHub](https://github.com/nekfeu/Mooker) |
 
 
 ## Winners
@@ -62,6 +62,6 @@ Teams that made it through the first pitches were teams that had working demos t
 * [Gutenberg and Bruxelles](#p3)
 * [KNOTES](#p5)
 
-### Grand winner
+### Grand prize winner
 
 * [Gutenberg and Bruxelles](#p3)
