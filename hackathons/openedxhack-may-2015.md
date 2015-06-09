@@ -71,12 +71,12 @@ Teams that made it through the first pitches were teams that had working demos t
 
 ### Videos
 
-* [Video by IONISx] (https://www.youtube.com/watch?v=eqx1TYPer1M)
+* [Video by IONISx](https://www.youtube.com/watch?v=eqx1TYPer1M)
 
 ### Photos
 
-* [IONISx Facebook album] (https://www.facebook.com/media/set/?set=a.427369380757615.1073741829.257575457737009&type=3)
+* [IONISx Facebook album](https://www.facebook.com/media/set/?set=a.427369380757615.1073741829.257575457737009&type=3)
 
 ### Twitter
 
-* [Tweets using the #openedxhack hashtag] (https://twitter.com/search?q=%23openedxhack&src=typd)
+* [Tweets using the #openedxhack hashtag](https://twitter.com/search?q=%23openedxhack&src=typd)
