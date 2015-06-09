@@ -18,7 +18,7 @@ Official website : [http://hack.openedx.fr/index-en.html](http://hack.openedx.f
 
 | Team name           | City           | Description | Links |
 | ------------------- | -------------  | ----------- | ----- |
-| <a name="p1"></a>外语2CommonLanguage  | Nancy | Add a “translate” button to the forums posts | [GitHub](https://github.com/jirkamarsik/edx-platform/tree/translate-button)
+| <a name="p1"></a>外语2CommonLanguage  | Nancy | Add a “translate” button to forum posts | [GitHub](https://github.com/jirkamarsik/edx-platform/tree/translate-button)
 | <a name="p2"></a>YOLO SWAG | Lyon  | Open edX raspberry pi clustering | |
 | <a name="p3"></a>Gutenberg and Bruxelles | Paris | XBlock to easily create interactive videos with problems. | [GitHub](https://github.com/roparz/xblock-videoquiz)
 | <a name="p4"></a>Motification | Lyon | Reduce the students turnover on the Open edX platform | [Doc](https://drive.google.com/drive/u/0/folders/0B3jc795AwF0NflVPMUdJZEx3MW0xMzZabllucXlscGdlQjFCSzNhZjFaN2kxREhxVHcwZWc) |
