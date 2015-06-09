@@ -7,7 +7,7 @@
 
 This hackathon was organized by [IONISx](https://ionisx.com), [France Université Numérique](http://france-universite-numerique.fr) and [edX](https://edx.org).
 
-This was a nationwide event, happening in [8 French cities](http://hack.openedx.fr/sites.html): Paris, Bordeaux, Lyon, Marseille, Nancy, Rennes, Strasbourg and Toulouse.
+This nationwide event took place in [8 French cities](http://hack.openedx.fr/sites.html): Paris, Bordeaux, Lyon, Marseille, Nancy, Rennes, Strasbourg and Toulouse.
 
 It was hosted by [ETNA](http://www.etna-alternance.net/), [Epitech](http://www.epitech.eu/) and [ENSIIE](http://www.ensiie.fr/).
 
@@ -43,7 +43,7 @@ Official website: [http://hack.openedx.fr/index-en.html](http://hack.openedx.fr/
 
 ## Winners
 
-### First pitches
+### First round winners
 
 Teams that made it through the first pitches were teams that had working demos to present.
 
@@ -56,7 +56,7 @@ Teams that made it through the first pitches were teams that had working demos t
 * [Mooker](#p21)
 
 
-### Final pitches top 3
+### Top 3 final round winners
 
 * [外语2CommonLanguage](#p1)
 * [Gutenberg and Bruxelles](#p3)
@@ -65,3 +65,18 @@ Teams that made it through the first pitches were teams that had working demos t
 ### Grand prize winner
 
 * [Gutenberg and Bruxelles](#p3)
+
+
+## Multimedia archive
+
+### Videos
+
+* [Video by IONISx] (https://www.youtube.com/watch?v=eqx1TYPer1M)
+
+### Photos
+
+* [IONISx Facebook album] (https://www.facebook.com/media/set/?set=a.427369380757615.1073741829.257575457737009&type=3)
+
+### Twitter
+
+* [Tweets using the #openedxhack hashtag] (https://twitter.com/search?q=%23openedxhack&src=typd)
