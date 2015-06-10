@@ -84,7 +84,7 @@ Teams that made it through the first pitches were teams that had working demos t
 
 * [Complete IONISx YouTube playlist: events and project pitches](https://www.youtube.com/playlist?list=PL_qnnQC2JZt5zFvRpjkIfOoHTbIk1x94n)
 * [Short video by IONISx](https://www.youtube.com/watch?v=eqx1TYPer1M)
-* [Short video by FUN]( https://www.youtube.com/watch?v=_SFlWLLROg8)
+* [Short video by Université Paris 1 / France Université Numérique](https://www.youtube.com/watch?v=_SFlWLLROg8)
 
 ### Photos
 
@@ -93,7 +93,7 @@ Teams that made it through the first pitches were teams that had working demos t
 
 ### Storify
 
-* [Storify by FUN](https://storify.com/universite_num/openedxhack-1er-hackathon-dedie-aux-moocs)
+* [Storify by France Université Numérique](https://storify.com/universite_num/openedxhack-1er-hackathon-dedie-aux-moocs)
 
 
 ### Twitter
