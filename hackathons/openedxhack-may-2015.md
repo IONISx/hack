@@ -68,17 +68,42 @@ Teams that made it through the first pitches were teams that had working demos t
 
 
 
-## Multimedia archive
+## Resources
 
 ### Videos
 
+* [Complete IONISx YouTube playlist: events and project pitches](https://www.youtube.com/playlist?list=PL_qnnQC2JZt5zFvRpjkIfOoHTbIk1x94n)
 * [Short video by IONISx](https://www.youtube.com/watch?v=eqx1TYPer1M)
-* [Complete YouTube playlist: events and project pitches](https://www.youtube.com/playlist?list=PL_qnnQC2JZt5zFvRpjkIfOoHTbIk1x94n)
+* [Short video by FUN]( https://www.youtube.com/watch?v=_SFlWLLROg8)
 
 ### Photos
 
 * [IONISx Facebook album](https://www.facebook.com/media/set/?set=a.427369380757615.1073741829.257575457737009&type=3)
 
+
+### Storify
+
+* [Storify by FUN](https://storify.com/universite_num/openedxhack-1er-hackathon-dedie-aux-moocs)
+
+
 ### Twitter
 
 * [Tweets using the #openedxhack hashtag](https://twitter.com/search?q=%23openedxhack&src=typd)
+
+
+### Blog Articles
+
+* [“#OpenedXHack”, Open edX blog](https://open.edx.org/blog/openedxhack)
+* [“Premier Hackathon dédié aux MOOC sur Open edX”, IONIS Education Group](http://www.ionis-group.com/actualites/hackhaton-IONISx) ([<i>English version from Google Translate</i>](https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=fr&ie=UTF-8&u=http%3A%2F%2Fwww.ionis-group.com%2Factualites%2Fhackhaton-IONISx&edit-text=))
+* [“Domoscio a remporté le prix de la catégorie « Activités » pour son projet lors du premier Open edX hackathon”, Domoscio blog](http://www.domoscio.com/domoscio-a-remporte-le-prix-de-la-categorie-activites-pour-son-projet-lors-du-premier-open-edx-hackathon/) (<i>[English version from Google Translate</i>](https://translate.google.com/translate?hl=fr&sl=fr&tl=en&u=http%3A%2F%2Fwww.domoscio.com%2Fdomoscio-a-remporte-le-prix-de-la-categorie-activites-pour-son-projet-lors-du-premier-open-edx-hackathon%2F))
+* [“Kalyzée lauréat du premier Hackathon dédié au MOOC sur Openedx avec KNOTES”, Kalyzée blog](http://www.kalyzee.com/kalyzee-laureat-de-openedxhack-avec-knotes/) ([<i>English version from Google Translate</i>](https://translate.google.com/translate?hl=fr&sl=fr&tl=en&u=http%3A%2F%2Fwww.kalyzee.com%2Fkalyzee-laureat-de-openedxhack-avec-knotes%2F))
+* [“eMOOCs, Open edX Hackaton, et autres événements MOOC du printemps”, Matthieu Cisel’s blog](http://blog.educpros.fr/matthieu-cisel/2015/06/08/4895/#more-4895) ([<i>English version from Google Translate</i>]( https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=fr&ie=UTF-8&u=http%3A%2F%2Fblog.educpros.fr%2Fmatthieu-cisel%2F2015%2F06%2F08%2F4895%2F%23more-4895&edit-text=))
+
+
+### News Articles
+
+* [“Premier hackathon dédié aux MOOC en France : un bilan sans precedent”, digiSchool.fr](http://www.digischool.fr/divertissement/premier-hackathon-dedie-mooc-france-bilan-sans-precedent-28871.php) ([<i>English version from Google Translate</i>](https://translate.google.com/translate?hl=fr&sl=fr&tl=en&u=http%3A%2F%2Fwww.digischool.fr%2Fdivertissement%2Fpremier-hackathon-dedie-mooc-france-bilan-sans-precedent-28871.php))
+* [“Premier hackathon français sur les Mooc”, EducPros.fr]
+(http://www.letudiant.fr/educpros/actualite/premier-hackathon-ministeriel-sur-les-mooc.html) ([<i>English version from Google Translate</i>]( https://translate.google.com/translate?hl=fr&sl=fr&tl=en&u=http%3A%2F%2Fwww.letudiant.fr%2Feducpros%2Factualite%2Fpremier-hackathon-ministeriel-sur-les-mooc.html))
+* [“Premier hackathon dédié aux MOOC sur Open edX en France“, Ludovia.com](http://www.ludovia.com/2015/06/premier-hackathon-dedie-aux-mooc-sur-open-edx-en-france/) ([<i>English version from Google Translate</i>]( https://translate.google.com/translate?hl=fr&sl=fr&tl=en&u=http%3A%2F%2Fwww.ludovia.com%2F2015%2F06%2Fpremier-hackathon-dedie-aux-mooc-sur-open-edx-en-france%2F))
+* [“L’Open edX Hack France dédié aux MooC a séduit 180 développeurs”, Silicon.fr](http://www.silicon.fr/open-edx-hack-france-180-developpeurs-hackaton-mooc-118362.html) ([<i>English version from Google Translate</i>]( https://translate.google.com/translate?hl=fr&sl=fr&tl=en&u=http%3A%2F%2Fwww.silicon.fr%2Fopen-edx-hack-france-180-developpeurs-hackaton-mooc-118362.html))
