@@ -109,6 +109,7 @@ Teams that made it through the first pitches were teams that had working demos t
 * [“Domoscio a remporté le prix de la catégorie « Activités » pour son projet lors du premier Open edX hackathon”, Domoscio blog](http://www.domoscio.com/domoscio-a-remporte-le-prix-de-la-categorie-activites-pour-son-projet-lors-du-premier-open-edx-hackathon/) (<i>[English from Google Translate</i>](https://translate.google.com/translate?hl=fr&sl=fr&tl=en&u=http%3A%2F%2Fwww.domoscio.com%2Fdomoscio-a-remporte-le-prix-de-la-categorie-activites-pour-son-projet-lors-du-premier-open-edx-hackathon%2F))
 * [“Kalyzée lauréat du premier Hackathon dédié au MOOC sur Openedx avec KNOTES”, Kalyzée blog](http://www.kalyzee.com/kalyzee-laureat-de-openedxhack-avec-knotes/) ([<i>English from Google Translate</i>](https://translate.google.com/translate?hl=fr&sl=fr&tl=en&u=http%3A%2F%2Fwww.kalyzee.com%2Fkalyzee-laureat-de-openedxhack-avec-knotes%2F))
 * [“eMOOCs, Open edX Hackaton, et autres événements MOOC du printemps”, Matthieu Cisel’s blog](http://blog.educpros.fr/matthieu-cisel/2015/06/08/4895/#more-4895) ([<i>English from Google Translate</i>]( https://translate.google.com/translate?sl=fr&tl=en&js=y&prev=_t&hl=fr&ie=UTF-8&u=http%3A%2F%2Fblog.educpros.fr%2Fmatthieu-cisel%2F2015%2F06%2F08%2F4895%2F%23more-4895&edit-text=))
+* [“#OpenedXHack, biggest Open edX Hackathon, first in France”, Yoni Dayan](https://www.linkedin.com/pulse/openedxhack-biggest-open-edx-hackathon-first-france-mooc-yoni-dayan)
 
 
 ### News Articles
