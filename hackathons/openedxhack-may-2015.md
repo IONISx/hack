@@ -11,7 +11,17 @@ This nationwide event took place in [8 French cities](http://hack.openedx.fr/sit
 
 It was hosted by [ETNA](http://www.etna-alternance.net/), [Epitech](http://www.epitech.eu/) and [ENSIIE](http://www.ensiie.fr/).
 
+Projects were judged by [18 jury members](http://hack.openedx.fr/jury.html), including 6 edX team members.
+
 Official website: [http://hack.openedx.fr/index-en.html](http://hack.openedx.fr/index-en.html).
+
+## Results
+
+* 180 attendees
+* 13 working demos presented
+* 7 groups named as winners
+
+The projects developed by participants confirm three main current and emerging trends in ed tech: interactivity (avoiding passive content), personalization (adapting the experience to each learner), and accessibility (accessing content from any device, avoiding downloading large video files).
 
 
 ## Projects
