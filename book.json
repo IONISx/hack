@@ -1,10 +1,13 @@
 {
   "gitbook": "2.0.1",
-  "plugins": ["edit-link"],
+  "plugins": ["edit-link", "ga"],
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/IONISx/hack/blob/master",
       "label": "Edit This Page"
+    },
+    "ga": {
+      "token": "UA-55279786-5"
     }
   }
 }
