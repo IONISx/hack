@@ -13,7 +13,7 @@ It was hosted by [ETNA](http://www.etna-alternance.net/), [Epitech](http://www.e
 
 Projects were judged by [18 jury members](http://hack.openedx.fr/jury.html), including 6 edX team members.
 
-Official website: [http://hack.openedx.fr/index-en.html](http://hack.openedx.fr/index-en.html).
+Official website: [http://hack.openedx.fr/](http://hack.openedx.fr/) (French),  [http://hack.openedx.fr/index-en.html](http://hack.openedx.fr/index-en.html) (English).
 
 ## Results
 
