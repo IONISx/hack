@@ -6,6 +6,9 @@
       "base": "https://github.com/IONISx/hack/blob/master",
       "label": "Edit This Page"
     },
+    "disqus": {
+      "shortName": "ionisx-engineering"
+    },
     "ga": {
       "token": "UA-55279786-5"
     }
